@@ -29,4 +29,4 @@ Open the site, then use the browser's install option. Turn the network off to se
 - `src/components` cart, PWA helper, SVG art · `src/lib/data.ts` team, cars, and results content
 - `public/sw.js` service worker · `src/app/manifest.ts` web app manifest
 
-Notes: no payment gateway (not required). Orders placed offline are queued in the browser and sent when the connection returns.
+Notes: no payment gateway (not required). Orders placed offline are queued in the browser and sent when the connection returns. Admin/staff login direction is available on footer
